@@ -1,4 +1,4 @@
-# edu-trailblazers
+# edc-trailblazers
 Best practices for the new Education Cloud products
 
 This is a sample README.md file you can use to update your project. New project repos will use this template when they are created.
